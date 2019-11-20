@@ -1,0 +1,6 @@
+2018-12-15 21:49:26.0121 INFO  请求参数签名SIGN:FEA99D903EFA2038E085553AA977D886  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => LogisticsController.ModifyLogistics
+2018-12-15 21:50:56.3439 ERROR  该物流信息不存在。订单Id：1  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => LogisticsController.ModifyLogistics
+2018-12-15 21:51:09.8692 INFO  请求参数签名SIGN:0F296EE97E7F45DE3CC4C427B7F3D363  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => LogisticsController.ModifyLogistics
+2018-12-15 21:59:29.1150 INFO  请求参数签名SIGN:0F296EE97E7F45DE3CC4C427B7F3D363  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => LogisticsController.ModifyLogistics
+2018-12-15 22:01:04.6586 INFO  请求参数签名SIGN:0F296EE97E7F45DE3CC4C427B7F3D363  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => LogisticsController.ModifyLogistics
+2018-12-15 22:16:36.7847 INFO  请求参数签名SIGN:0F296EE97E7F45DE3CC4C427B7F3D363  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => LogisticsController.ModifyLogistics

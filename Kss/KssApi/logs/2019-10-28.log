@@ -1,0 +1,23 @@
+2019-10-28 21:12:54.8618 ERROR  服务器内部错误：将实体对象转换成XML异常
+   at KssApi.Common.XmlSerializeHelper.XmlSerialize[T](T obj) in c:\WangBin\LianCang\Kss\KssApi\Common\XmlSerializeHelper.cs:line 32
+   at KssApi.Controllers.FwController.PurchaseOutinorderConfirm(String method, String timestamp, String app_key, String v, String partner_id, String sign, FwPurchaseOutinorderConfirmRequest request) in c:\WangBin\LianCang\Kss\KssApi\Controllers\LogisticsController.cs:line 48
+   at lambda_method(Closure , Object , Object[] )
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass10.<GetExecutor>b__9(Object instance, Object[] methodParameters)
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()  <ExecuteExceptionFilterAsyncCore>d__0.MoveNext => ExceptionFilterAttribute.OnExceptionAsync => WebApiExceptionFilterAttribute.OnException
+2019-10-28 22:13:12.1964 INFO  请求参数签名SIGN:564C3B0759B90BAE2DF447D6BF24CE9F  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm

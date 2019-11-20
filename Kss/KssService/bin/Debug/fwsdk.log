@@ -1,0 +1,62 @@
+2019-10-30 23:19:02 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.products.sync&app_key=jk06&partner_id=0016666006&timestamp=2019-10-30 23:19:01&v=2.0&sign=6BB99730C08F2F15635F18FA7F7EDBD0 response error!
+<response><flag>false</flag><code>B01001</code><message>[非法的XML格式]</message></response>
+2019-11-02 20:55:27 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.products.sync&app_key=jk06&partner_id=0016666006&timestamp=2019-11-02 20:55:26&v=2.0&sign=9C2596AF5C6786545D5D6D8DC03080A3 response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-02 20:58:03 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.products.sync&app_key=jk06&partner_id=0016666006&timestamp=2019-11-02 20:58:03&v=2.0&sign=2CBAE03A1A81E4461FE8CAC88C1117EC response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-02 21:03:07 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.products.sync&app_key=jk06&partner_id=0016666006&timestamp=2019-11-02 21:03:06&v=2.0&sign=12FD8080F974059FFA74C3444BE9D515 response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-02 21:05:29 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.products.sync&app_key=jk06&partner_id=0016666006&timestamp=2019-11-02 21:05:28&v=2.0&sign=688FC49D23E4911162BEA791E5130EDE response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-02 21:07:13 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.products.sync&app_key=jk06&partner_id=0016666006&timestamp=2019-11-02 21:07:13&v=2.0&sign=07D20E037B93C35D453A07FB71509EE0 response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-07 22:02:53 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.products.sync&app_key=jk06&partner_id=0016666006&timestamp=2019-11-07 22:02:51&v=2.0&sign=F0BBF38D62301F55185EA6FA92D178A7 response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-08 21:14:39 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.products.sync&app_key=jk06&partner_id=0016666006&timestamp=2019-11-08 21:14:38&v=2.0&sign=48F30BE4078B2AA928C63BD1C704956F response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-08 22:18:10 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.products.sync&app_key=jk06&partner_id=0016666006&timestamp=2019-11-08 22:18:09&v=2.0&sign=7895DE4FA51E9DFE01BD8D154B37918B response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-08 22:18:42 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.products.sync&app_key=jk06&partner_id=0016666006&timestamp=2019-11-08 22:18:42&v=2.0&sign=96CBBDE23A47C2583D3D151E7219BCAB response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-10 13:08:15 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.purchase.outinorder.add&app_key=jk06&partner_id=0016666006&timestamp=2019-11-10 13:08:14&v=2.0&sign=A4F746851A30CC68CB6A81DE913D877F response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-10 13:21:40 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.purchase.outinorder.cancel&app_key=jk06&partner_id=0016666006&timestamp=2019-11-10 13:21:39&v=2.0&sign=149A827A7C18A25D49A02FB8C02DE56F response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-11 22:54:12 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.products.sync&app_key=jk06&partner_id=0016666006&timestamp=2019-11-11 22:54:12&v=2.0&sign=E16216D10AAC80066F77BB609C1C409C response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-11 22:54:21 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.products.sync&app_key=jk06&partner_id=0016666006&timestamp=2019-11-11 22:54:21&v=2.0&sign=B6F266699618236ABE4679D90A31C78F response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-12 21:14:36 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.products.sync&app_key=jk06&partner_id=0016666006&timestamp=2019-11-12 21:14:35&v=2.0&sign=CB18B7E8DFC34A5592E17C8215B7F183 response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-12 21:34:22 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.products.sync&app_key=jk06&partner_id=0016666006&timestamp=2019-11-12 21:34:21&v=2.0&sign=4838FB49D685DB0FB1589690DCA78AF8 response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-14 18:41:39 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.products.sync&app_key=jk06&partner_id=0016666006&timestamp=2019-11-14 18:41:38&v=2.0&sign=1427A6D94AA2551E5CC73028FDB61AC3 response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-18 20:51:45 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.purchase.outinorder.add&app_key=jk06&partner_id=0016666006&timestamp=2019-11-18 20:51:44&v=2.0&sign=05A1598D8D3F49B9085785672B017791 response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-18 20:52:17 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.purchase.outinorder.cancel&app_key=jk06&partner_id=0016666006&timestamp=2019-11-18 20:52:16&v=2.0&sign=3F261C2F180F39B5562E6AF7480A0A0B response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-18 21:30:52 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.products.sync&app_key=jk06&partner_id=0016666006&timestamp=2019-11-18 21:30:50&v=2.0&sign=A052C5B74741314A399B91204842EB0D response error!
+<response><flag>false</flag><code>S00004</code><message>会员【0016666006】该接口未启用</message></response>
+2019-11-19 19:22:33 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.purchase.outinorder.add&app_key=jk06&partner_id=0016666006&timestamp=2019-11-19 19:22:33&v=2.0&sign=4681FD1B82BB57A09615ABE78C9E7D90 response error!
+<response><flag>false</flag><code>B01002</code><message>[商品【444】数量必须大于0]</message></response>
+2019-11-19 20:02:36 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.purchase.outinorder.add&app_key=jk06&partner_id=0016666006&timestamp=2019-11-19 20:02:35&v=2.0&sign=580E8FCE9FC30569DF9146F968CAC542 response error!
+<response><flag>false</flag><code>B01002</code><message>[商品【FJBB18723781】数量必须大于0]</message></response>
+2019-11-19 20:07:20 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.purchase.outinorder.add&app_key=jk06&partner_id=0016666006&timestamp=2019-11-19 20:07:19&v=2.0&sign=A15136A9655E4D47FD7ACA30B797776E response error!
+<response><flag>false</flag><code>B01001</code><message>[非法的XML格式]</message></response>
+2019-11-19 20:09:02 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.purchase.outinorder.add&app_key=jk06&partner_id=0016666006&timestamp=2019-11-19 20:09:02&v=2.0&sign=FD9C0772B72F0CDE0FD98673892569C9 response error!
+<response><flag>false</flag><code>B01001</code><message>[非法的XML格式]</message></response>
+2019-11-19 20:11:36 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.purchase.outinorder.add&app_key=jk06&partner_id=0016666006&timestamp=2019-11-19 20:11:35&v=2.0&sign=BE6F93C7938EA95F798374282F9D3368 response error!
+<response><flag>false</flag><code>B01005</code><message>仓库编号不存在！</message></response>
+2019-11-19 20:13:31 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.purchase.outinorder.add&app_key=jk06&partner_id=0016666006&timestamp=2019-11-19 20:13:30&v=2.0&sign=D4D50E8E139B7229D6CF8EC9B071514B response error!
+<response><flag>false</flag><code>B01005</code><message>仓库编号不存在！</message></response>
+2019-11-19 20:13:51 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.purchase.outinorder.add&app_key=jk06&partner_id=0016666006&timestamp=2019-11-19 20:13:51&v=2.0&sign=9EBFD21E33BE8118CFC1487CFBB2C2FF response error!
+<response><flag>false</flag><code>B01005</code><message>仓库编号不存在！</message></response>
+2019-11-19 20:14:20 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.purchase.outinorder.add&app_key=jk06&partner_id=0016666006&timestamp=2019-11-19 20:14:20&v=2.0&sign=2038DA939D7AE3B5FDF4FC5B04A30452 response error!
+<response><flag>false</flag><code>B01004</code><message>发网不存在商品【FJBB18723781】！</message></response>
+2019-11-19 20:25:15 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.purchase.outinorder.cancel&app_key=jk06&partner_id=0016666006&timestamp=2019-11-19 20:25:15&v=2.0&sign=4857E7A3CBD1F1FD435946860837389A response error!
+<response><flag>false</flag><code>B01009</code><message>[单据【SI020011904220001I1001】不存在！]</message></response>
+2019-11-19 20:26:46 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.purchase.outinorder.cancel&app_key=jk06&partner_id=0016666006&timestamp=2019-11-19 20:26:46&v=2.0&sign=2E5CC5E4AE5C04B23669290E130586DA response error!
+<response><flag>false</flag><code>B01009</code><message>[单据【SI020011904220001I1001】不存在！]</message></response>
+2019-11-19 20:26:51 WARN: http://apicloud.fineex.net/Interface/InterfaceWeb/InterfaceFwWMS.ashx?method=fineex.wms.purchase.outinorder.cancel&app_key=jk06&partner_id=0016666006&timestamp=2019-11-19 20:26:51&v=2.0&sign=3D760D14953002F87F71FE0FDDC72363 response error!
+<response><flag>false</flag><code>B01009</code><message>[单据【SI020011908140001I1001】不存在！]</message></response>

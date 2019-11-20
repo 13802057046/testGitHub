@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KssService", "KssService\KssService.csproj", "{84D1002E-3A8C-4466-ADCE-F51985758521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseInfo", "BaseInfo\BaseInfo.csproj", "{0A272463-B3EC-4BD4-938E-D4BB63C7A60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KssApi", "KssApi\KssApi.csproj", "{FBC0DE9A-816E-4C02-8106-3BEF3FD48E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84D1002E-3A8C-4466-ADCE-F51985758521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D1002E-3A8C-4466-ADCE-F51985758521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D1002E-3A8C-4466-ADCE-F51985758521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D1002E-3A8C-4466-ADCE-F51985758521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A272463-B3EC-4BD4-938E-D4BB63C7A60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A272463-B3EC-4BD4-938E-D4BB63C7A60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A272463-B3EC-4BD4-938E-D4BB63C7A60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A272463-B3EC-4BD4-938E-D4BB63C7A60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC0DE9A-816E-4C02-8106-3BEF3FD48E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC0DE9A-816E-4C02-8106-3BEF3FD48E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC0DE9A-816E-4C02-8106-3BEF3FD48E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC0DE9A-816E-4C02-8106-3BEF3FD48E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

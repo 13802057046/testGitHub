@@ -1,0 +1,62 @@
+2019-10-31 12:36:57.7228 ERROR  服务器内部错误：将XML转换成实体对象异常
+   at KssApi.Common.XmlSerializeHelper.DESerializer[T](String strXML) in c:\WangBin\LianCang\Kss\KssApi\Common\XmlSerializeHelper.cs:line 53
+   at KssApi.Controllers.FwController.PurchaseOutinorderConfirm(String method, String app_key, String partner_id, String v, String timestamp, String sign, HttpRequestMessage messageText, String request) in c:\WangBin\LianCang\Kss\KssApi\Controllers\LogisticsController.cs:line 50
+   at lambda_method(Closure , Object , Object[] )
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass10.<GetExecutor>b__9(Object instance, Object[] methodParameters)
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()  <ExecuteExceptionFilterAsyncCore>d__0.MoveNext => ExceptionFilterAttribute.OnExceptionAsync => WebApiExceptionFilterAttribute.OnException
+2019-10-31 12:39:31.5142 ERROR  服务器内部错误：将XML转换成实体对象异常
+   at KssApi.Common.XmlSerializeHelper.DESerializer[T](String strXML) in c:\WangBin\LianCang\Kss\KssApi\Common\XmlSerializeHelper.cs:line 53
+   at KssApi.Controllers.FwController.PurchaseOutinorderConfirm(String method, String app_key, String partner_id, String v, String timestamp, String sign, HttpRequestMessage messageText, String request) in c:\WangBin\LianCang\Kss\KssApi\Controllers\LogisticsController.cs:line 50
+   at lambda_method(Closure , Object , Object[] )
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass10.<GetExecutor>b__9(Object instance, Object[] methodParameters)
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()  <ExecuteExceptionFilterAsyncCore>d__0.MoveNext => ExceptionFilterAttribute.OnExceptionAsync => WebApiExceptionFilterAttribute.OnException
+2019-10-31 18:59:49.2315 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm
+2019-10-31 19:19:55.6740 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm
+2019-10-31 21:31:22.0486 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm
+2019-10-31 21:33:06.9059 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm
+2019-10-31 21:44:08.7128 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm
+2019-10-31 21:54:15.7441 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm
+2019-10-31 21:54:33.6327 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm
+2019-10-31 21:56:28.3699 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm
+2019-10-31 22:18:01.0394 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm
+2019-10-31 22:18:35.8154 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm
+2019-10-31 22:28:10.7325 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm
+2019-10-31 22:29:14.5630 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm
+2019-10-31 22:42:22.1320 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm
+2019-10-31 22:48:55.5813 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm
+2019-10-31 22:49:43.9283 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm
+2019-10-31 22:53:24.8888 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm
+2019-10-31 22:54:35.8542 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm
+2019-10-31 22:55:21.6597 INFO  请求参数签名SIGN:8BCFD93A8AA0D55E6FC818B8D96F3761  <>c__DisplayClass10.<GetExecutor>b__9 => <no type>.lambda_method => FwController.PurchaseOutinorderConfirm

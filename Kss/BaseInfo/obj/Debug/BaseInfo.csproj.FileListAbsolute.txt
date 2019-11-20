@@ -1,0 +1,15 @@
+C:\WangBin\CityHill\GYY\BaseInfo\bin\Debug\BaseInfo.dll
+C:\WangBin\CityHill\GYY\BaseInfo\bin\Debug\BaseInfo.pdb
+C:\WangBin\CityHill\GYY\BaseInfo\bin\Debug\Newtonsoft.Json.dll
+C:\WangBin\CityHill\GYY\BaseInfo\obj\Debug\BaseInfo.dll
+C:\WangBin\CityHill\GYY\BaseInfo\obj\Debug\BaseInfo.pdb
+C:\WangBin\CityHill\GYY\BaseInfo\obj\Debug\BaseInfo.csprojResolveAssemblyReference.cache
+C:\WangBin\Leilian\LianCang\Kss\BaseInfo\bin\Debug\BaseInfo.dll
+C:\WangBin\Leilian\LianCang\Kss\BaseInfo\bin\Debug\BaseInfo.pdb
+C:\WangBin\Leilian\LianCang\Kss\BaseInfo\obj\Debug\BaseInfo.dll
+C:\WangBin\Leilian\LianCang\Kss\BaseInfo\obj\Debug\BaseInfo.pdb
+C:\WangBin\LianCang\Kss\BaseInfo\bin\Debug\BaseInfo.dll
+C:\WangBin\LianCang\Kss\BaseInfo\bin\Debug\BaseInfo.pdb
+C:\WangBin\LianCang\Kss\BaseInfo\obj\Debug\BaseInfo.csprojResolveAssemblyReference.cache
+C:\WangBin\LianCang\Kss\BaseInfo\obj\Debug\BaseInfo.dll
+C:\WangBin\LianCang\Kss\BaseInfo\obj\Debug\BaseInfo.pdb
